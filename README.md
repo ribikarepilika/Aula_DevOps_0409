@@ -1,5 +1,6 @@
 # Aula_DevOps_0409
-Aula DevOps de ramificações
+Aula DevOps de ramificações<br>
 Steven Universe: The movie
-A prince e o Sapo
+Mulan
 Doukyuusei
+A Princesa e o Sapo
